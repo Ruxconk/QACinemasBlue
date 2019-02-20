@@ -1,6 +1,6 @@
 node {
 	stage("make money"){
-		sh "echo where tha money at?"
+		sh "echo yo where tha money at?"
 	}
 
 }
